@@ -5,7 +5,7 @@ my personal website
 
 ## About
 Welcome to my personal website!  
-Here I share my projects, ideas, and journals.
+Here I share my journals, ideas, and projects.
 
 ---
 
